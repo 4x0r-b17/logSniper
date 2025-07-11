@@ -1,0 +1,8 @@
+os
+pyfiglet
+argparse
+subprocess
+shutil
+system
+colorama
+collections
