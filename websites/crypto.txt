@@ -1,0 +1,17 @@
+binance.com
+kucoin.com
+bitpanda.com
+crypto.com
+bitfinex.com
+bitstamp.net
+bybit.com
+gate.io
+coinbase.com
+kraken.com
+okx.com
+cex.io
+luno.com
+mexc.com
+gemini.com
+coincheck.com
+yobit.net
